@@ -25,7 +25,7 @@ debian/files
 
 # IntelliJ
 .idea/
-*.eml
+*.eml and I have made the changes
 *.iml
 *.ipr
 *.iws
